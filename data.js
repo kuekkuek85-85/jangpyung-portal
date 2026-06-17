@@ -1,15 +1,6 @@
 const PORTAL_ITEMS = [
   // ── 수업 도구 ─────────────────────────────────────────────
   {
-    id: "alpha-stars",
-    icon: "⭐",
-    name: "Alpha Stars",
-    description: "알파스타즈 수업 활동 앱",
-    category: "수업",
-    status: "active",
-    url: "https://sparkle-alpha-friend.lovable.app"
-  },
-  {
     id: "url-highlighter",
     icon: "🖍️",
     name: "URL 하이라이터",
@@ -26,6 +17,15 @@ const PORTAL_ITEMS = [
     category: "수업",
     status: "active",
     url: "https://phycom-sim-buddy.lovable.app"
+  },
+  {
+    id: "alpha-stars",
+    icon: "⭐",
+    name: "Alpha Stars",
+    description: "알파스타즈 수업 활동 앱",
+    category: "수업",
+    status: "active",
+    url: "https://sparkle-alpha-friend.lovable.app"
   },
   {
     id: "yut-game",

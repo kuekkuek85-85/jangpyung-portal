@@ -1,0 +1,6 @@
+# 임시 파일
+*.tmp
+
+# 개인정보처리방침 문서 (로컬 작업물 - 푸시 제외)
+*.hwpx
+make_privacy_policy.py
