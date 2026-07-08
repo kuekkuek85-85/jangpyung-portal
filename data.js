@@ -1,6 +1,24 @@
 const PORTAL_ITEMS = [
   // ── 수업 도구 ─────────────────────────────────────────────
   {
+    id: "problem-solving-lab",
+    icon: "🔬",
+    name: "장평 문제해결 연구소",
+    description: "학생 문제해결력을 기르는 탐구 활동 플랫폼",
+    category: "수업",
+    status: "active",
+    url: "https://jp-problem-solving-lab.vercel.app/"
+  },
+  {
+    id: "hanoi-tower",
+    icon: "🗼",
+    name: "하노이탑 게임",
+    description: "재귀·알고리즘 원리를 익히는 하노이탑 퍼즐 게임",
+    category: "수업",
+    status: "active",
+    url: "https://hanoi-tower-game-rosy.vercel.app/"
+  },
+  {
     id: "url-highlighter",
     icon: "🖍️",
     name: "URL 하이라이터",
