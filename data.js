@@ -10,6 +10,15 @@ const PORTAL_ITEMS = [
     url: "https://jp-problem-solving-lab.vercel.app/"
   },
   {
+    id: "quadrilateral-name-lab",
+    icon: "📐",
+    name: "사각형 이름 탐험실",
+    description: "사각형의 종류와 이름을 탐구하는 도형 학습 앱",
+    category: "수업",
+    status: "active",
+    url: "https://quadrilateral-name-lab.pkskjun.chatgpt.site/"
+  },
+  {
     id: "hanoi-tower",
     icon: "🗼",
     name: "하노이탑 게임",
