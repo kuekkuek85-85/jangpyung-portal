@@ -10,6 +10,15 @@ const PORTAL_ITEMS = [
     url: "https://jp-problem-solving-lab.vercel.app/"
   },
   {
+    id: "region-explorer-korea",
+    icon: "🗺️",
+    name: "우리나라 지역 탐구",
+    description: "우리나라 지역의 특징을 탐구하는 사회 학습 앱",
+    category: "수업",
+    status: "active",
+    url: "https://region-explorer-korea.lovable.app"
+  },
+  {
     id: "quadrilateral-name-lab",
     icon: "📐",
     name: "사각형 이름 탐험실",
